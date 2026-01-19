@@ -16,6 +16,7 @@ Designed to provide smooth navigation across desktop, tablet, and mobile devices
 ## 📖 About The Project
 
 <img src="Responsive%20Navbar/assets/images/desktop.png" alt="Responsive Navbar Desktop View" width="100%" />
+<img src="Responsive%20Navbar/assets/images/mobile.png" alt="Responsive Navbar Desktop View" width="100%" />
 
 The **Responsive Navbar** is a reusable navigation component created for modern websites and web applications.  
 It adapts seamlessly to different screen sizes, transforming into a mobile-friendly menu while maintaining clarity and usability.
