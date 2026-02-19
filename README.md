@@ -3,59 +3,108 @@
 <br />
 <div align="center">
 
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/responsive-navbar)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/responsive-navbar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/responsive-navbar?style=social)
 
-## 🧭 Responsive Navbar  
-A clean, modern, and fully responsive **Navigation Bar UI Component** built using HTML, CSS, and JavaScript.  
-Designed to provide smooth navigation across desktop, tablet, and mobile devices with an intuitive user experience.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://responsive-navbar-sand.vercel.app/)
 
-</div>
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
-## 📖 About The Project
+<!-- 🔰 PROJECT LOGO -->
+<img src="Responsive%20Navbar/assets/images/logo.png" alt="Responsive Navbar Logo" width="120"/>
 
-<img src="Responsive%20Navbar/assets/images/desktop.png" alt="Responsive Navbar Desktop View" width="100%" />
-<img src="Responsive%20Navbar/assets/images/mobile.png" alt="Responsive Navbar Desktop View" width="100%" />
+<br />
+<br />
 
-The **Responsive Navbar** is a reusable navigation component created for modern websites and web applications.  
-It adapts seamlessly to different screen sizes, transforming into a mobile-friendly menu while maintaining clarity and usability.
+<h1 align="center">🧭 Responsive Navbar</h1>
 
-This project highlights your ability to build **responsive UI components**, manage layout changes with CSS and JavaScript, and ensure consistent navigation behavior across devices.  
-It’s ideal for portfolios, business websites, landing pages, and web apps.
+A clean, modern, and fully responsive **Navigation Bar UI Component**  
+designed to provide smooth navigation across desktop, tablet, and mobile devices.
 
-Perfect for:
-- Website navigation systems  
-- Mobile-first UI components  
-- Reusable frontend components  
-- Portfolio UI showcases  
-- Responsive design practice  
+<a href="https://responsive-navbar-sand.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
 
 ---
 
-### ✨ Features
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
+## 📖 About The Project
+
+<img src="Responsive%20Navbar/assets/images/desktop.png" alt="Responsive Navbar Desktop View" width="100%" />
+<img src="Responsive%20Navbar/assets/images/mobile.png" alt="Responsive Navbar Mobile View" width="100%" />
+
+The **Responsive Navbar** is a reusable navigation component created for modern websites and web applications.  
+It adapts seamlessly to different screen sizes, transforming into a mobile-friendly hamburger menu while maintaining clarity and usability.
+
+This project focuses on:
+- Responsive layout behavior  
+- Mobile-first navigation design  
+- Clean UI and interaction patterns  
+- Cross-device compatibility  
+
+Ideal for:
+- Website navigation systems  
+- Landing pages and portfolios  
+- Reusable frontend components  
+- Responsive UI practice  
+
+This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## ✨ Features
 
 - Fully responsive navigation bar  
 - Mobile-friendly hamburger menu  
-- Smooth open/close animations  
+- Smooth open and close animations  
 - Clean and modern UI design  
 - Cross-browser compatibility  
 - Easy to customize menu items  
 - Lightweight and reusable component  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
-### 🛠️ Built With
+## 🛠️ Built With
 
-* [HTML5](https://html5.org/)  
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+This project is built using:
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
