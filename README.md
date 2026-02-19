@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Responsive%20Navbar/assets/images/logo.png" alt="Responsive Navbar Logo" width="120"/>
-
-<br />
-<br />
-
 <h1 align="center">🧭 Responsive Navbar</h1>
 
 A clean, modern, and fully responsive **Navigation Bar UI Component**  
