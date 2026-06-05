@@ -58,8 +58,7 @@ This project focuses on:
 Ideal for:
 - Website navigation systems  
 - Landing pages and portfolios  
-- Reusable frontend components  
-- Responsive UI practice  
+- Reusable frontend components
 
 This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing.
 
